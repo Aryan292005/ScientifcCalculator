@@ -19,7 +19,7 @@ A feature-rich scientific calculator built using **Java Swing**, designed with a
 
 ## 🖥️ GUI Preview
 
-> ![screenshot](screenshot.png)  
+> ![screenshot](Screenshot 2025-05-27 171926.png)  
 *(Add your screenshot named `screenshot.png` here)*
 
 ---
