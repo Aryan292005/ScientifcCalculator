@@ -26,11 +26,17 @@ A feature-rich scientific calculator built using **Java Swing**, designed with a
 
 ## 📁 Project Structure
 ScientificCalculator/
+
 ├── src/
+
 │ └── ScientificCalculator.java
+
 ├── out/
+
 │ └── artifacts/ (contains built .jar)
+
 ├── README.md
+
 └── ScientificCalculator.jar 
 
 ## 🚀 How to Run
