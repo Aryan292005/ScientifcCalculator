@@ -69,12 +69,15 @@ Custom expression parser (recursive descent)
 Error handling and scientific computation
 📜 License
 This project is open-source and free to use for educational purposes.
+
 🙋‍♂️ Author
+
 Made with ❤️ by 
 [ayush Bharti
 Manas Shahi
 Mansi kannaujiya
 Aryan Tiwari]
+
 If you're viewing this for submission, thank you!
 
 
