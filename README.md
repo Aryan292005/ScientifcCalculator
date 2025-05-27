@@ -67,7 +67,9 @@ Stack-based history management
 Custom expression parser (recursive descent)
 
 Error handling and scientific computation
+
 📜 License
+
 This project is open-source and free to use for educational purposes.
 
 🙋‍♂️ Author
