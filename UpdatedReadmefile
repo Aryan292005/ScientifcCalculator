@@ -1,0 +1,24 @@
+# Scientific Calculator
+A comprehensive scientific calculator with advanced mathematical functions.
+
+## Features
+- Basic arithmetic operations
+- Scientific functions (trigonometric, logarithmic, etc.)
+- Expression evaluation with operator precedence
+- Calculation history
+- Keyboard support
+- Error handling
+
+## Requirements
+- Java 8 or higher
+- Maven (for building)
+
+## Installation
+1. Clone the repository
+2. Build with `mvn package`
+3. Run with `java -jar target/calculator.jar`
+
+## Usage
+- Enter expressions using buttons or keyboard
+- Press = or Enter to evaluate
+- Use CLR to clear input
